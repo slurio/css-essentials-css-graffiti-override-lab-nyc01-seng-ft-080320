@@ -2,10 +2,6 @@
   display: none;
 }
 
-#wall style {
-  display: none;
-}
-
-#wall ."slick wicked" {
+#wall div[id="tag-2"] {
   display: none;
 }
